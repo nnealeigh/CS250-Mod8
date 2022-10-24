@@ -1,6 +1,7 @@
 # CS250-Mod8
 ## How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
-
+I tried to outline each of the user's needs based on the interview documents provided at various stages of the course. Converting these needs into "user stories" turns them from an idea that someone had into something more tangible that the team can work towards. In the interview where potential users were asked what they wanted, one mentioned sorting by price. This was turned into a story involving different ways to filter out locations, to better assist users in finding their ideal destination. 
 ## How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?
-
+When I am developing, I try to work in stages, usually a function or block of code at a time, while trying to make sure that everything functions together. I haven't worked on anything large enough that I really felt a need to use agile yet. In the future however, I think that breaking up a project into stages, or stories, might help me with budgetting time and not finding one massive program so overwhelming.
 ## What does it mean to be a good team member in software development?
+In my opinion, being a good team member means being someone who is open to communication and criticism, while being open to learning. Not everyone is able to "pull their weight" especially at the begining of our careers, but being open minded and accepting advice from more experienced individuals is the best way to set ourselves up to become "real" developers down the line.
